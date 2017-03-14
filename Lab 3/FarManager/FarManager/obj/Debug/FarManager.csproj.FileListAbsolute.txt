@@ -1,0 +1,6 @@
+C:\Ablay\Programming\Lab 3\FarManager\FarManager\bin\Debug\FarManager.exe.config
+C:\Ablay\Programming\Lab 3\FarManager\FarManager\obj\Debug\FarManager.csprojResolveAssemblyReference.cache
+C:\Ablay\Programming\Lab 3\FarManager\FarManager\bin\Debug\FarManager.exe
+C:\Ablay\Programming\Lab 3\FarManager\FarManager\bin\Debug\FarManager.pdb
+C:\Ablay\Programming\Lab 3\FarManager\FarManager\obj\Debug\FarManager.exe
+C:\Ablay\Programming\Lab 3\FarManager\FarManager\obj\Debug\FarManager.pdb
